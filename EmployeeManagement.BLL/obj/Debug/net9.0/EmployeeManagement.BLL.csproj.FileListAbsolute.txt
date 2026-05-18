@@ -1,0 +1,17 @@
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\obj\Debug\net9.0\EmployeeManagement.BLL.csproj.AssemblyReference.cache
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\obj\Debug\net9.0\EmployeeManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\obj\Debug\net9.0\EmployeeManagement.BLL.AssemblyInfoInputs.cache
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\obj\Debug\net9.0\EmployeeManagement.BLL.AssemblyInfo.cs
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\obj\Debug\net9.0\EmployeeManagement.BLL.csproj.CoreCompileInputs.cache
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\bin\Debug\net9.0\EmployeeManagement.BLL.deps.json
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\bin\Debug\net9.0\EmployeeManagement.BLL.dll
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\bin\Debug\net9.0\EmployeeManagement.BLL.pdb
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\bin\Debug\net9.0\EmployeeManagement.DAL.dll
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\bin\Debug\net9.0\EmployeeManagement.DAL.pdb
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\obj\Debug\net9.0\Employee.597BFE28.Up2Date
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\obj\Debug\net9.0\EmployeeManagement.BLL.dll
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\obj\Debug\net9.0\refint\EmployeeManagement.BLL.dll
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\obj\Debug\net9.0\EmployeeManagement.BLL.pdb
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\obj\Debug\net9.0\ref\EmployeeManagement.BLL.dll
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\bin\Debug\net9.0\EmployeeManagement.Utility.dll
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.BLL\bin\Debug\net9.0\EmployeeManagement.Utility.pdb

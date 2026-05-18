@@ -1,0 +1,11 @@
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\obj\Debug\net9.0\EmployeeManagement.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\obj\Debug\net9.0\EmployeeManagement.Utility.AssemblyInfoInputs.cache
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\obj\Debug\net9.0\EmployeeManagement.Utility.AssemblyInfo.cs
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\obj\Debug\net9.0\EmployeeManagement.Utility.csproj.CoreCompileInputs.cache
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\bin\Debug\net9.0\EmployeeManagement.Utility.deps.json
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\bin\Debug\net9.0\EmployeeManagement.Utility.dll
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\bin\Debug\net9.0\EmployeeManagement.Utility.pdb
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\obj\Debug\net9.0\EmployeeManagement.Utility.dll
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\obj\Debug\net9.0\refint\EmployeeManagement.Utility.dll
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\obj\Debug\net9.0\EmployeeManagement.Utility.pdb
+D:\Backend .net projects\EmployeeManagementSystem\EmployeeManagement.Utility\obj\Debug\net9.0\ref\EmployeeManagement.Utility.dll

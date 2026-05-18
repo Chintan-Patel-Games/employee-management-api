@@ -9,7 +9,7 @@ This project demonstrates a clean backend architecture using Repository Pattern,
 # Features
 
 - Employee CRUD Operations
-- Department CRUD Operations
+- Department create & read Operations
 - Layered Architecture (DAL / BLL / Utility)
 - Repository Pattern
 - DTO-Based API Structure

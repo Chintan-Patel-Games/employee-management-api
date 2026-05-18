@@ -65,6 +65,12 @@ EmployeeManagementSystem
 
 ---
 
+# Swagger UI
+
+![Swagger UI](images/swagger-ui.png)
+
+---
+
 # API Features
 
 ## Pagination
